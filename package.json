@@ -1,0 +1,50 @@
+{
+  "name": "streaminator-admin",
+  "version": "1.0.0",
+  "description": "Module to manage Streaminator Database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "role": "node index.js role",
+    "csv": "node index.js csv",
+    "svg": "node index.js svg",
+    "stripe": "node index.js stripe",
+    "active-campaign": "node index.js active-campaign",
+    "elk-widgets-catalog": "node index.js elk widgets-catalog",
+    "elk-overlay-catalog": "node index.js elk overlay-catalog"
+  },
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.13.0",
+    "activecampaign": "^1.2.5",
+    "axios": "^0.27.2",
+    "csv-parser": "^2.3.3",
+    "csv-writer": "^1.6.0",
+    "csvtojson": "^2.0.10",
+    "express": "^4.17.1",
+    "fast-xml-parser": "^4.0.9",
+    "firebase": "^7.22.0",
+    "firebase-admin": "^9.2.0",
+    "ipify": "^5.0.0",
+    "ipinfo": "^1.5.1",
+    "stream-http": "^3.1.1",
+    "stripe": "^8.117.0",
+    "svgson": "^5.2.1",
+    "uuid-random": "^1.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/jun.oliveira10/streaminator-admin.git"
+  },
+  "keywords": [
+    "stream"
+  ],
+  "author": "Skill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/jun.oliveira10/streaminator-admin/issues"
+  },
+  "homepage": "https://gitlab.com/jun.oliveira10/streaminator-admin#readme",
+  "devDependencies": {
+    "uuid": "^9.0.0"
+  }
+}
