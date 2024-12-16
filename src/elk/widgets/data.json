@@ -1,0 +1,2217 @@
+[
+  {
+    "name": "Red",
+    "status": "ACTIVE",
+    "validFrom": 0,
+    "validUntil": null,
+    "tags": ["red", "vermelho", "flamengo"],
+    "items": [
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#ffebee",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#ffcdd2",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#ef9a9a",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#e57373",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#ef5350",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#f44336",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#e53935",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#d32f2f",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#c62828",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#b71c1c",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#ff8a80",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#ff5252",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#ff1744",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#d50000",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      }
+    ]
+  },
+  {
+    "name": "pink",
+    "status": "ACTIVE",
+    "validFrom": 0,
+    "validUntil": null,
+    "tags": ["pink", "rosa"],
+    "items": [
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#fce4ec",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#f8bbd0",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#f48fb1",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#f06292",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#ec407a",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#e91e63",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#d81b60",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#c2185b",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#ad1457",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#880e4f",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#ff80ab",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#ff4081",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#f50057",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#c51162",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      }
+    ]
+  },
+  {
+    "name": "purple",
+    "status": "ACTIVE",
+    "validFrom": 0,
+    "validUntil": null,
+    "tags": ["purple", "roxo"],
+    "items": [
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#f3e5f5",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#e1bee7",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#ce93d8",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#ba68c8",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#ab47bc",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#9c27b0",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#8e24aa",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#7b1fa2",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#6a1b9a",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#4a148c",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#ea80fc",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#e040fb",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#d500f9",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#aa00ff",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      }
+    ]
+  },
+  {
+    "name": "deep-purple",
+    "status": "ACTIVE",
+    "validFrom": 0,
+    "validUntil": null,
+    "tags": ["deep-purple", "roxo-forte"],
+    "items": [
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#ede7f6",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#d1c4e9",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#b39ddb",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#9575cd",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#7e57c2",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#673ab7",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#5e35b1",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#512da8",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#4527a0",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#311b92",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#b388ff",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#7c4dff",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#651fff",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#6200ea",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      }
+    ]
+  },
+  {
+    "name": "indigo",
+    "status": "ACTIVE",
+    "validFrom": 0,
+    "validUntil": null,
+    "tags": ["indigo", "blue"],
+    "items": [
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#e8eaf6",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#c5cae9",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#9fa8da",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#7986cb",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#5c6bc0",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#3f51b5",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#3949ab",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#303f9f",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#283593",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#1a237e",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#8c9eff",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#536dfe",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#3d5afe",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      },
+      {
+        "template": {
+          "uid": "1",
+          "typeUid": "4",
+          "metadata": {
+            "animations": [],
+            "created_at": "2022-10-17 14:15:36",
+            "visual": {
+              "classList": "",
+              "style": {
+                "color": "#304ffe",
+                "fontSize": 30,
+                "font": "",
+                "backgroundColor": "",
+                "size": 175
+              },
+              "attributes": {}
+            }
+          },
+          "thumb": "https://firebasestorage.googleapis.com/v0/b/streaminator-lives.appspot.com/o/widgets-thumbs%2Fezgif.com-gif-maker.gif?alt=media&token=23c85968-e1ef-456f-8b7f-55a59460d590",
+          "typeDescription": "Smart Widgets",
+          "demoVideo": "",
+          "description": "Online Notification"
+        },
+        "uid": "B1SxSZ1LRnr6bbEb7uzn",
+        "publicUrl": "http://localhost:8080/#/public/widget/WoUvCs4fkGiKeVJ3jZXy/d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "name": "widgetName",
+        "status": "public",
+        "publicUid": "d8509f1a1b3787c78e154e5d7118f5b15b6716aa2130ecdddea16b23e185b6b477d196abbecb4784a03c54f4fd169b3128b62e81b1ff631aca176c372c3f1d9f",
+        "created_at": "2022-10-17 14:15:36"
+      }
+    ]
+  }
+]

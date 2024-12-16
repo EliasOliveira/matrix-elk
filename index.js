@@ -1,5 +1,5 @@
 const param = process.argv.slice(2)[0]
-const executorProxy = require('./executor/index')
+const executorProxy = require('./src/index')
 const { Client } = require('@elastic/elasticsearch')
 
 const elkClient = new Client({
